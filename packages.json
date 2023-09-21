@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name":				"BoostForUG4",
-			"url":				"https://github.com/UG4/external_BoostForUG4.git",
+			"url":				"git@github.com:UG4/external_BoostForUG4.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"externals",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name":				"ConvectionDiffusion",
-			"url":				"https://github.com/UG4/plugin_ConvectionDiffusion.git",
+			"url":				"git@github.com:UG4/plugin_ConvectionDiffusion.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -43,7 +43,7 @@
 
 		{
 			"name":				"DemoPlugin",
-			"url":				"https://github.com/UG4/plugin_DemoPlugin.git",
+			"url":				"git@github.com:UG4/plugin_DemoPlugin.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -63,7 +63,7 @@
 
 		{
 			"name":				"DocuGen",
-			"url":				"https://github.com/UG4/plugin_DocuGen.git",
+			"url":				"git@github.com:UG4/plugin_DocuGen.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -83,7 +83,7 @@
 
 		{
 			"name":				"EigenForUG4",
-			"url":				"https://github.com/UG4/external_EigenForUG4.git",
+			"url":				"git@github.com:UG4/external_EigenForUG4.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"externals",
@@ -93,7 +93,7 @@
 
 		{
 			"name":				"PybindForUG4",
-			"url":				"https://github.com/UG4/external_PybindForUG4.git",
+			"url":				"git@github.com:UG4/external_PybindForUG4.git",
 			"repoType":			"git",
 			"defaultBranch":		"main",
 			"prefix":			"externals",
@@ -103,7 +103,7 @@
 
 		{
 			"name":				"Electromagnetism",
-			"url":				"https://github.com/UG4/plugin_Electromagnetism.git",
+			"url":				"git@github.com:UG4/plugin_Electromagnetism.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -133,7 +133,7 @@
 
 		{
 			"name":				"electromagnetism_app",
-			"url":				"https://github.com/UG4/app_Electromagnetism.git",
+			"url":				"git@github.com:UG4/app_Electromagnetism.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"apps",
@@ -153,7 +153,7 @@
 
 		{
 			"name":				"ElementQualityStatistics",
-			"url":				"https://github.com/UG4/plugin_ElementQualityStatistics.git",
+			"url":				"git@github.com:UG4/plugin_ElementQualityStatistics.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -173,7 +173,7 @@
 
 		{
 			"name":				"Examples",
-			"url":				"https://github.com/UG4/app_Examples.git",
+			"url":				"git@github.com:UG4/app_Examples.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"apps",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name":				"JSONForUG4",
-			"url":				"https://github.com/UG4/external_JSON.git",
+			"url":				"git@github.com:UG4/external_JSON.git",
 			"repoType":			"git",
 			"defaultBranch":		"master",
 			"prefix":			"externals",
@@ -221,7 +221,7 @@
 		},
 		{
 			"name":				"JupyterToolbox",
-			"url":				"https://github.com/UG4/plugin_JupyterToolbox.git",
+			"url":				"git@github.com:UG4/plugin_JupyterToolbox.git",
 			"repoType":			"git",
 			"defaultBranch":		"main",
 			"prefix":			"plugins",
@@ -242,7 +242,7 @@
 		},
 	    	{
 			"name":				"Limex",
-			"url":				"https://github.com/UG4/plugin_Limex.git",
+			"url":				"git@github.com:UG4/plugin_Limex.git",
 			"repoType":			"git",
 			"defaultBranch":		"master",
 			"prefix":			"plugins",
@@ -263,7 +263,7 @@
 
 		{
 			"name":				"LuaShell",
-			"url":				"https://github.com/UG4/plugin_LuaShell.git",
+			"url":				"git@github.com:UG4/plugin_LuaShell.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -293,7 +293,7 @@
 		
 		{
 			"name":				"NavierStokes",
-			"url":				"https://github.com/UG4/plugin_NavierStokes.git",
+			"url":				"git@github.com:UG4/plugin_NavierStokes.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -323,7 +323,7 @@
 
 		{
 			"name":				"navier_stokes",
-			"url":				"https://github.com/UG4/app_NavierStokes.git",
+			"url":				"git@github.com:UG4/app_NavierStokes.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"apps",
@@ -347,7 +347,7 @@
 
 		{
 			"name":				"ProMesh",
-			"url":				"https://github.com/UG4/plugin_ProMesh.git",
+			"url":				"git@github.com:UG4/plugin_ProMesh.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -387,7 +387,7 @@
 
 		{
 			"name":				"SmallStrainMechanics",
-			"url":				"https://github.com/UG4/plugin_SmallStrainMechanics.git",
+			"url":				"git@github.com:UG4/plugin_SmallStrainMechanics.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -417,7 +417,7 @@
 
 		{
 			"name":				"SuperLU6",
-			"url":				"https://github.com/UG4/plugin_SuperLU6.git",
+			"url":				"git@github.com:UG4/plugin_SuperLU6.git",
 			"repoType":			"git",
 			"defaultBranch":		"master",
 			"prefix":			"plugins",
@@ -437,7 +437,7 @@
 
 		{
 			"name":				"TemplatePlugin",
-			"url":				"https://github.com/UG4/plugin_TemplatePlugin.git",
+			"url":				"git@github.com:UG4/plugin_TemplatePlugin.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -457,7 +457,7 @@
 
 		{
 			"name":				"tetgen",
-			"url":				"https://github.com/UG4/tool_tetgen.git",
+			"url":				"git@github.com:UG4/tool_tetgen.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"tools",
@@ -467,7 +467,7 @@
 
 		{
 			"name":				"ugcore",
-			"url":				"https://github.com/UG4/ugcore.git",
+			"url":				"git@github.com:UG4/ugcore.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"",
@@ -505,7 +505,7 @@
 
 		{
 			"name":				"ugmat",
-			"url":				"https://github.com/UG4/tool_ugmat.git",
+			"url":				"git@github.com:UG4/tool_ugmat.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"tools",
@@ -515,7 +515,7 @@
 
 		{
 			"name":				"ugvec",
-			"url":				"https://github.com/UG4/tool_ugvec.git",
+			"url":				"git@github.com:UG4/tool_ugvec.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"tools",
@@ -525,7 +525,7 @@
 		
 		{
 			"name":				"UGTest",
-			"url":				"https://github.com/UG4/plugin_UGtest.git",
+			"url":				"git@github.com:UG4/plugin_UGtest.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -545,7 +545,7 @@
 
 		{
 			"name":				"ParameterEstimation",
-			"url":				"https://github.com/UG4/plugin_ParameterEstimation.git",
+			"url":				"git@github.com:UG4/plugin_ParameterEstimation.git",
 			"repoType":			"git",
 			"defaultBranch":	"master",
 			"prefix":			"plugins",
@@ -564,7 +564,7 @@
 		},
 		{
 			"name":				"xeus-ug4-kernel",
-			"url":				"https://github.com/UG4/xeus-ug4.git",
+			"url":				"git@github.com:UG4/xeus-ug4.git",
 			"repoType":			"git",
 			"defaultBranch":		"master",
 			"prefix":			"tools",
